@@ -1,0 +1,5 @@
+plotly
+streamlit
+sqlalchemy
+python-dotenv
+sqlalchemy>=2.0.0
